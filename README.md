@@ -1,4 +1,4 @@
-# 2025 Resolution & Vision Roadmap for Chandan - Software Engineer
+# 2025 Resolution & Vision Roadmap for Software Engineer
 
 ### 2025 Resolution:
 By the end of 2025, I aim to become a proficient Software Engineer with a salary range of 6-10 LPA, mastering backend technologies, improving my communication skills, and building my confidence. My journey will focus on technical excellence, recognition in the tech community, and financial stability.
